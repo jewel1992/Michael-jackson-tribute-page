@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  opacity: 0.9;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.jacksonpic {
+  border: 4px solid #555;
+  border-radius: 25px;
+}
+
+.caption {
+  border: 2px dotted yellow;
+  border-radius: 25px;
+  background-color: #f6945f;
+}
+
+.container {
+  background-color: lightsteelblue;
+  background-size: 300px;
+}
+
+.mike-vid {
+  border: 4px solid yellow;
+  border-radius: 25px;
+}
+
+ul,
+li {
+  border: 2px solid lightsalmon;
+}
